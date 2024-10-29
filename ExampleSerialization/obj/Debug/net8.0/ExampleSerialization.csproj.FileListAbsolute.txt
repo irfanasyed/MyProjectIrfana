@@ -1,0 +1,14 @@
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\bin\Debug\net8.0\ExampleSerialization.exe
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\bin\Debug\net8.0\ExampleSerialization.deps.json
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\bin\Debug\net8.0\ExampleSerialization.runtimeconfig.json
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\bin\Debug\net8.0\ExampleSerialization.dll
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\bin\Debug\net8.0\ExampleSerialization.pdb
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\obj\Debug\net8.0\ExampleSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\obj\Debug\net8.0\ExampleSerialization.AssemblyInfoInputs.cache
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\obj\Debug\net8.0\ExampleSerialization.AssemblyInfo.cs
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\obj\Debug\net8.0\ExampleSerialization.csproj.CoreCompileInputs.cache
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\obj\Debug\net8.0\ExampleSerialization.dll
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\obj\Debug\net8.0\refint\ExampleSerialization.dll
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\obj\Debug\net8.0\ExampleSerialization.pdb
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\obj\Debug\net8.0\ExampleSerialization.genruntimeconfig.cache
+C:\Irfana\Batch7-Irfana S\ExampleSerialization\obj\Debug\net8.0\ref\ExampleSerialization.dll
