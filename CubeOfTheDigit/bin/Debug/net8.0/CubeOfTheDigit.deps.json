@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CubeOfTheDigit/1.0.0": {
+        "runtime": {
+          "CubeOfTheDigit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CubeOfTheDigit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

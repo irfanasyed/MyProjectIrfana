@@ -1,0 +1,14 @@
+C:\Irfana\Batch7-Irfana S\ConstructerObject\obj\Debug\net8.0\ConstructerObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Irfana\Batch7-Irfana S\ConstructerObject\obj\Debug\net8.0\ConstructerObject.AssemblyInfoInputs.cache
+C:\Irfana\Batch7-Irfana S\ConstructerObject\obj\Debug\net8.0\ConstructerObject.AssemblyInfo.cs
+C:\Irfana\Batch7-Irfana S\ConstructerObject\obj\Debug\net8.0\ConstructerObject.csproj.CoreCompileInputs.cache
+C:\Irfana\Batch7-Irfana S\ConstructerObject\bin\Debug\net8.0\ConstructerObject.exe
+C:\Irfana\Batch7-Irfana S\ConstructerObject\bin\Debug\net8.0\ConstructerObject.deps.json
+C:\Irfana\Batch7-Irfana S\ConstructerObject\bin\Debug\net8.0\ConstructerObject.runtimeconfig.json
+C:\Irfana\Batch7-Irfana S\ConstructerObject\bin\Debug\net8.0\ConstructerObject.dll
+C:\Irfana\Batch7-Irfana S\ConstructerObject\bin\Debug\net8.0\ConstructerObject.pdb
+C:\Irfana\Batch7-Irfana S\ConstructerObject\obj\Debug\net8.0\ConstructerObject.dll
+C:\Irfana\Batch7-Irfana S\ConstructerObject\obj\Debug\net8.0\refint\ConstructerObject.dll
+C:\Irfana\Batch7-Irfana S\ConstructerObject\obj\Debug\net8.0\ConstructerObject.pdb
+C:\Irfana\Batch7-Irfana S\ConstructerObject\obj\Debug\net8.0\ConstructerObject.genruntimeconfig.cache
+C:\Irfana\Batch7-Irfana S\ConstructerObject\obj\Debug\net8.0\ref\ConstructerObject.dll

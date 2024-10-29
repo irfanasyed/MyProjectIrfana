@@ -1,0 +1,14 @@
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\bin\Debug\net8.0\CubeOfTheDigit.exe
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\bin\Debug\net8.0\CubeOfTheDigit.deps.json
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\bin\Debug\net8.0\CubeOfTheDigit.runtimeconfig.json
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\bin\Debug\net8.0\CubeOfTheDigit.dll
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\bin\Debug\net8.0\CubeOfTheDigit.pdb
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\obj\Debug\net8.0\CubeOfTheDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\obj\Debug\net8.0\CubeOfTheDigit.AssemblyInfoInputs.cache
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\obj\Debug\net8.0\CubeOfTheDigit.AssemblyInfo.cs
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\obj\Debug\net8.0\CubeOfTheDigit.csproj.CoreCompileInputs.cache
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\obj\Debug\net8.0\CubeOfTheDigit.dll
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\obj\Debug\net8.0\refint\CubeOfTheDigit.dll
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\obj\Debug\net8.0\CubeOfTheDigit.pdb
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\obj\Debug\net8.0\CubeOfTheDigit.genruntimeconfig.cache
+C:\Irfana\Batch7-Irfana S\CubeOfTheDigit\obj\Debug\net8.0\ref\CubeOfTheDigit.dll
